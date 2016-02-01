@@ -15,7 +15,7 @@ $(function() {
 		pagesFolder: 'pages',
 		fadeSpeed: 300,
 		footerText: '&copy; ' + new Date().getFullYear() + ' All Rights Reserved.',
-		mode: 'GitHub',
+		mode: 'Github',
 		githubUserSettings: {
 			username: 'CDVInformatyka2015',
 			repo: 'info'
